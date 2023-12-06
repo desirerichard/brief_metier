@@ -58,10 +58,11 @@ Le développeur backend créer la partie cachée d'un site web ou d'une applicat
 
 <br>
 
-### Interview
+### Interviews
 
-Nous avons interviewé deux professionnels :
 [![Vidéo de l'interview d'Adel](http://img.youtube.com/vi/XBD8sA9NeyA/0.jpg)](https://www.youtube.com/watch?v=XBD8sA9NeyA "Interview d'Adel")
+
+[![Vidéo de l'interview d'Alex](http://img.youtube.com/vi/D9DGJ_b6YOc/0.jpg)](https://www.youtube.com/watch?v=D9DGJ_b6YOc "Interview d'Alex")
 
 <br>
 
