@@ -61,8 +61,7 @@ Le développeur backend créer la partie cachée d'un site web ou d'une applicat
 ### Interview
 
 Nous avons interviewé deux professionnels :
-
-`Idée : Vidéo Brut, deux métiers en une vidéo, les mêmes questions, une réponse de chaque métier.`
+[![Vidéo de l'interview d'Adel](http://img.youtube.com/vi/XBD8sA9NeyA/0.jpg)](https://www.youtube.com/watch?v=XBD8sA9NeyA "Interview d'Adel")
 
 <br>
 
